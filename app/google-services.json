@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359434835687",
+    "project_id": "vanaspati-e843f",
+    "storage_bucket": "vanaspati-e843f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359434835687:android:fe1570a27c5d3aa7753442",
+        "android_client_info": {
+          "package_name": "com.vanaspati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoiiTqXrU_muv4QBhVTx9vO8qwDb1UrMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
